@@ -1,6 +1,7 @@
 # 内容：OpenAi
 # 数量：16条
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,chatgpt.com
