@@ -56,6 +56,7 @@ DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,twitch
+DOMAIN-KEYWORD,google
 
 # Top Blocked Sites
 DOMAIN-SUFFIX,4sqi.net
