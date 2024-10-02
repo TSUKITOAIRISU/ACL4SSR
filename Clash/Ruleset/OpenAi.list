@@ -2,6 +2,7 @@
 # 数量：16条
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,aistudio
+DOMAIN-KEYWORD,gemini
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,chatgpt.com
